@@ -1,6 +1,6 @@
 # VideoMasterCase
 
-Demo videos for the VideoMaster / DataMagicFilm project.
+Demo videos for the VideoMaster project.
 
 | File | Description |
 |------|-------------|
